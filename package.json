@@ -1,19 +1,13 @@
 {
-  "name": "frontend-boilerplate",
+  "name": "new-project",
   "version": "1.0.0",
-  "description": "Let's get started!",
-  "keywords": [
-    "boilerplate",
-    "starter",
-    "frontend",
-    "parcel",
-    "vanilla"
-  ],
-  "homepage": "https://github.com/m0wh/frontend-boilerplate",
-  "bugs": "https://github.com/m0wh/frontend-boilerplate/issues",
+  "description": "Hello World",
+  "keywords": [],
+  "homepage": "https://github.com/username/new-project",
+  "bugs": "https://github.com/username/new-project/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/m0wh/frontend-boilerplate.git"
+    "url": "https://github.com/username/new-project.git"
   },
   "main": "index.html",
   "scripts": {

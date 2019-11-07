@@ -2,16 +2,9 @@
 
 ## Usage
 
-```sh
-mkdir my-nice-project
-cd my-nice-project
-git clone https://github.com/m0wh/frontend-boilerplate.git . # do not forget the final "."
-rm -rf .git # delete git repo
-git init # and recreate one
-yarn # install dependencies
-```
+Click [here](https://github.com/m0wh/frontend-boilerplate/generate) or on the green "Une this template" button on top to create a new repository with the same file structure. Then just clone it, replace what needs to be replaced in `package.json` (name, repository url...) and you are ready!
 
-Then replace what needs to be replaced in `package.json` (name, repository url...)
+> **Tip:** you can add [github.com/m0wh/frontend-boilerplate/generate](https://github.com/m0wh/frontend-boilerplate/generate) to your bookmarks to create a repo in one click.
 
 ## Commands
 
