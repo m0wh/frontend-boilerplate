@@ -20,7 +20,7 @@
     "start": "parcel index.html --open",
     "build": "parcel build index.html --public-url .",
     "predeploy": "yarn build",
-    "deploy": "./deploy.sh"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Malo Widerspach <malo.dewiderspach@gmail.com> (https://mowh.fr)",
   "license": "MIT",
